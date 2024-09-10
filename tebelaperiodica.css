@@ -1,0 +1,65 @@
+table{
+    width:100%;
+
+}
+td{
+  height: 80px;  
+  width: 150px;
+  text-align: center;
+  border-color: black;
+}
+#naometais{
+    background-color: #6cee45 ;
+}
+#malcalino{
+    background-color: #F1B200 ;
+}
+#alcalinoterroso{
+    background-color:#EADA00 ;
+}
+#metaltransicao{
+background-color: #cc6161;
+}
+#alogenios{
+    background-color: #90E3E9;
+}
+#semimetais{
+    background-color: #4DB6AC;
+}
+#outrosmetais{
+    background-color: #A2C7D3;
+}
+#gnobres{
+    background-color: #3D9EE3;
+}
+#halogenios{
+    background-color: #da3939;
+}
+#actinidios{
+    background-color:  #DCADD6;
+}
+#natomico{
+    text-align: left;
+    
+}
+#sigla{
+    font-size: 18px;
+    font-style: oblique;
+}
+#a{
+    height: 0.5cm;
+}
+
+
+
+
+#naometais{background-color: #6cee45; font-size: x-large;}
+#malcalino{background-color: #F1B200;font-size: x-large;}
+#alcalinoterroso{background-color:#EADA00 ;font-size: x-large;}
+#metaltransicao{background-color: #cc6161(23, 124, 212);font-size: x-large;}
+#alogenios{background-color: #90E3E9(145, 225, 228);font-size: x-large;}
+#semimetais{background-color: #4DB6AC(104, 216, 138, 0.979);font-size: x-large;}
+#outrosmetais{background-color: #A2C7D3(187, 219, 238);font-size: x-large;}
+#gnobresS{background-color: #3D9EE3(33, 159, 231);font-size: x-large;}
+#halogenios{background-color: #da3939(169, 206, 240);font-size: x-large;}
+#actinidios{background-color: #DCADD6(219, 195, 215);font-size: x-large;}
